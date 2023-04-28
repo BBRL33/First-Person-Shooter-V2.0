@@ -1,0 +1,4 @@
+repository "First Person Shooter"
+  path "/"
+    br "/main"
+    co "/main"
